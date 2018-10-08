@@ -1,7 +1,0 @@
-{
-    "python.pythonPath": "C:\\Users\\repz\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
-    "python.linting.pylintEnabled": false,
-    "python.linting.mypyEnabled": false,
-    "python.linting.enabled": true,
-    "python.linting.pep8Enabled": true
-}
